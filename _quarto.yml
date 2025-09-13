@@ -25,5 +25,6 @@ format:
     toc: true
     number-sections: false
     title-block-banner: true
-    toc-title: "Di Halaman Ini:"
+    #toc-title: "Di Halaman Ini:"
+    lang: id
 editor: visual
