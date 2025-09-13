@@ -1,6 +1,6 @@
 # KETENTUAN AKADEMIK {.unnumbered}
 
-## **Pembimbing Akademik**
+## Pembimbing Akademik
 
 Pembimbing Akademik (PA) adalah dosen tetap fakultas yang sedang tidak tugas belajar, yang ditunjuk oleh Pimpinan Fakultas untuk : 
 
@@ -37,7 +37,7 @@ Pembimbing Akademik (PA) memberikan peringatan kepada mahasiswa yang berdasarkan
 **Mahasiswa diwajibkan melakukan pertemuan pembimbingan akademik dua kali pada setiap semester (sebelum pengisian KRS dan setelah UTS).**
 :::
 
-## **Cuti Akademik**
+## Cuti Akademik
 
 Cuti akademik adalah cuti di mana mahasiswa dibebaskan dari kewajiban mengikuti semua kegiatan akademik dan lama masa cuti tidak dihitung dalam masa studi. Mahasiswa yang mengajukan permohonan cuti akademik hendaknya memperhatikan rencana studinya yang disusun bersama PA masing-masing. Mahasiswa juga memiliki kewajiban untuk membayar uang semester sebesar 30% dari total uang semester untuk bisa mengambil cuti akademik. 
 
@@ -62,7 +62,7 @@ Tahapan pengajuannya adalah : 
 5.  Mahasiswa menjalani cuti yang telah disetujui Dekan.
 6.  Mahasiswa yang telah menyelesaikan cuti akademik melapor kepada Kepala Program Studi kemudian melakukan pendaftaran ulang mahasiswa lama.
 
-## **Mahasiswa non aktif**
+## Mahasiswa non aktif
 
 Mahasiswa non aktif adalah mahasiswa yang mempunyai NPM namun: (1) tidak melakukan pendaftaran ulang; tidak mengajukan cuti akademik; (2) melakukan registrasi namun tidak mengikuti kegiatan akademik selama lima minggu berturut-turut. Masa non aktif dihitung sebagai masa studi.
 
@@ -76,7 +76,7 @@ Mahasiswa yang telah non aktif setelah 1 semester, untuk kembali menjadi mahasis
 2.  Melunasi kewajiban keuangan selama tidak aktif
 3.  Melakukan pendaftaran ulang mahasiswa lama
 
-## **Pengunduran Diri**
+## Pengunduran Diri
 
 1.  Mahasiswa berkonsultasi kepada PA berkenaan dengan rencana pengunduran diri.
 2.  Mahasiswa mengambil formulir permohonan pengunduran diri.
@@ -84,7 +84,7 @@ Mahasiswa yang telah non aktif setelah 1 semester, untuk kembali menjadi mahasis
 4.  Mahasiswa mendapat formulir permohonan pengunduran diri asli yang telah diisi lengkap.
 5.  Mahasiswa mendapat transkrip akademik sampai semester terakhir aktif.
 
-## **Mahasiswa Putus Kuliah**
+## Mahasiswa Putus Kuliah
 
 Untuk menghindari kegagalan setelah bertahun-tahun belajar dengan biaya yang cukup besar maka dilakukan suatu mekanisme di mana mahasiswa diberikan peringatan-peringatan tentang hasil studi sebelum mereka dinyatakan putus kuliah (*drop out*/DO).
 
@@ -105,7 +105,7 @@ Sebelum sampai pada keputusan putus kuliah, mahasiswa berhak mendapat peringatan
 
 Sesuai dengan ketentuan, batas masa studi maksimal untuk menyelesaikan pendidikan di Fakultas Psikologi adalah 14 semester dengan cuti akademik maksimal 2 semester yang tidak dapat diambil berturut-turut.
 
-## **Ketentuan Jumlah SKS**
+## Ketentuan Jumlah SKS
 
 Ketentuan jumlah SKS yang diizinkan berdasarkan Indeks Prestasi Semester (IPS) yang diperoleh pada semester sebelumnya adalah sebagai berikut:
 
@@ -118,7 +118,7 @@ Ketentuan jumlah SKS yang diizinkan berdasarkan Indeks Prestasi Semester (IPS) y
 |       2,76 - 3,00        |         22          |
 |         \> 3,00          |         24          |
 
-## **Pengisian KPRS**
+## Pengisian KPRS
 
 Satu pekan setelah perkuliahan berjalan, mahasiswa diberi kesempatan untuk menambah, mengurangi atau mengganti mata kuliah dalam KRS. Kartu Perbaikan Rencana Studi (KPRS) harus mendapat persetujuan PA. Tahapan yang harus diikuti adalah sebagai berikut:
 
@@ -126,7 +126,7 @@ Satu pekan setelah perkuliahan berjalan, mahasiswa diberi kesempatan untuk menam
 2.  Mengisi KPRS di SISAKAD dan meminta persetujuan PA. 
 3.  Mencetak KPRS yang telah disetujui PA dan memberikan salinannya kepada bagian Akademik dan PA pada saat yang ditentukan. 
 
-## **Perkuliahan dan Praktikum**
+## Perkuliahan dan Praktikum
 
 1.  Perencanaan, penyusunan, dan pelaksanaan kurikulum pendidikan menggunakan sistem kredit sebagai tolak ukur beban akademik mahasiswa. 
 2.  Sistem kredit adalah suatu sistem penyelenggaraan program pendidikan yang dinyatakan dalam sks, dengan ukuran waktu terkecil adalah satu semester. 
@@ -144,14 +144,14 @@ Satu pekan setelah perkuliahan berjalan, mahasiswa diberi kesempatan untuk menam
 
     c.  Apabila dalam bentuk perkuliahan, tatap muka paling sedikit enam belas kali (16) termasuk ujian tengah semester antara dan ujian akhir semester antara. 
 
-## **Absensi Perkuliahan**
+## Absensi Perkuliahan
 
 Mahasiswa diwajibkan untuk mengisi absensi perkuliahan. Mahasiswa diwajibkan untuk menghadiri perkuliahan dan tercatat di absensi yang kemudian disahkan oleh Pusat Pelayanan Terpadu (PLT) minimal 11 pertemuan dan maksimal 14 pertemuan. Keteledoran yang diakibatkan karena lupa mengisi absensi akan menjadi tanggung jawab mahasiswa, hal ini dapat berkonsekuensi pada: 
 
 1.  Dihitung sebagai ketidakhadiran. 
 2.  Mahasiswa tidak dapat mengikuti ujian akhir semester
 
-## **Ujian**
+## Ujian
 
 Secara umum, penilaian/evaluasi mata kuliah meliputi empat komponen, yaitu kuis, tugas, UTS dan UAS. Tugas diatur oleh masing-masing dosen, sedangkan UTS dan UAS diselenggarakan oleh lembaga. 
 
@@ -163,7 +163,7 @@ Prosedur penyelenggaran UTS relatif sama dengan prosedur penyelenggaraan UAS, ya
 4.  Mahasiswa yang ujiannya bentrok dengan mata kuliah lain harus melapor ke PLT untuk penentuan jadwal ujian susulan. 
 5.  Mahasiswa diperbolehkan untuk mengikuti Ujian Akhir Semester (UAS) jika sudah memenuhi kriteria kehadiran 80% dalam perkuliahan. 
 
-## **Ujian Susulan**
+## Ujian Susulan
 
 Ujian susulan hanya diberikan kepada mahasiswa yang berhak mengikuti ujian tetapi tidak dapat mengikuti ujian karena mengalami kondisi di bawah ini: 
 
@@ -176,7 +176,7 @@ Ujian susulan hanya diberikan kepada mahasiswa yang berhak mengikuti ujian tetap
 3.  Paling lambat 1 (satu) pekan setelah pengajuan permohonan, mahasiswa dapat melakukan jadwal ujian susulan. 
 4.  Mahasiswa melaksanakan ujian sesuai jadwal yang ditentukan. 
 
-## **Prestasi Akademik**
+## Prestasi Akademik
 
 Secara umum penilaian/evaluasi mata kuliah ada empat komponen yaitu kuis, tugas mandiri/kelompok, UTS dan UAS. Kuis, tugas mandiri/kelompok diatur oleh masing-masing dosen, sedangkan UTS dan UAS diselenggarakan oleh lembaga. 
 
@@ -304,11 +304,11 @@ Mahasiswa diberikan kesempatan untuk menentukan mata kuliah yang akan diikuti, d
 3.  Perbaikan dapat dilakukan dengan mengambil MK yang sama pada tahun ajaran berikutnya ataupun pada semester remedial. 
 4.  Nilai yang lebih tinggi yang akan dicantumkan dalam KHS. 
 
-## **Indeks Prestasi**
+## Indeks Prestasi
 
 Derajat keberhasilan mahasiswa dalam satu semester dinyatakan dengan IPS (Indeks Prestasi Semester) dan IPK (Indeks Prestasi Kumulatif). IPS adalah prestasi hasil belajar yang diperoleh di semester yang baru saja berlangsung, sedangkan IPK merupakan prestasi hasil pelajar yang diperoleh dari semester pertama hingga semester yang baru saja berjalan. Mahasiswa akan mendapatkan IPK dan IPS tercantum di dalam Kartu Hasil Studi. Rentang Indeks Prestasi berkisar antara 0.00 - 4.00. Semakin tinggi Indeks Prestasi, maka semakin tinggi pula prestasi mahasiswa di bidang akademik. 
 
-## **Prasyarat Mata Kuliah Tugas Akhir**
+## Prasyarat Mata Kuliah Tugas Akhir
 
 Mata Kuliah yang merupakan bagian dari Tugas Akhir, meliputi: 
 
@@ -337,7 +337,7 @@ Untuk bisa mengikuti mata kuliah Tugas Akhir, maka setiap mahasiswa sudah harus 
 
     3.  Melengkapi persyaratan akademik lainnya, sesuai pertimbangan Kepala Program Studi. 
 
-## **Belajar Di Luar Kampus**
+## Belajar Di Luar Kampus
 
 Kegiatan Belajar Di Luar Kampus dilakukan untuk mengakomodasi kegiatan MBKM (Merdeka Belajar Kampus Merdeka). Mahasiswa diberikan hak untuk mengikuti proses belajar mengajar diluar prodi Psikologi Universitas YARSI. Benttuk kegiatan pembelajarannya diantaranya: 
 
@@ -362,7 +362,7 @@ Kegiatan belajar di luar kampus ini akan dikonversikan sebanyak 20 SKS pada satu
 **Kegiatan yang akan dikonversi hanyalah kegiatan yang telah disetujui oleh PA dan Prodi Psikologi Universitas YARSI.**
 :::
 
-## **Seminar Proposal Skripsi**
+## Seminar Proposal Skripsi
 
 Seminar Proposal Skripsi adalah tahap awal yang harus dilalui oleh mahasiswa untuk kemudian menyelesaikan skripsi. Di dalam mata kuliah ini, mahasiswa akan mendapat bimbingan intensif oleh dosen yang ditunjuk sebagai Pembimbing mengenai proses penyusunan proposal skripsi. Mahasiswa yang dianggap sudah memenuhi persyaratan yang dibutuhkan, diperkenankan untuk mengambil mata kuliah Seminar Proposal.
 
@@ -377,7 +377,7 @@ Prosedur pelaksanaan Seminar Proposal Skripsi, yang di dalamnya meliputi: 
 7.  Ujian seminar tahap pertama adalah evaluasi mengenai Bab I (pendahulan dan latar belakang) dalam proposal. Ujian seminar tahap akhir adalah evaluasi keseluruhan isi proposal dari Bab I-III (Pendahuluan-Metode Penelitian). 
 8.  Di akhir penyelenggaraan mata kuliah, mahasiswa mendapatkan ketetapan kelulusan seminar proposal oleh komisi penguji seminar. Apabila mahasiswa dinyatakan lulus (dengan nilai minimum C), maka mahasiswa bisa melanjutkan proposal untuk dijadikan sebagai Skripsi. Namun apabila mahasiswa dinyatakan tidak lulus, maka mahasiswa diharuskan untuk mengulang mata kuliah Seminar Proposal Skripsi. 
 
-## **Skripsi**
+## Skripsi
 
 Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian/Teknik Penyusunan Skripsi, maka ia diperkenankan untuk melanjutkan proposal yang diajukan sebagai skripsi. Untuk pengajuan skripsi, proses yang dilakukan meliputi: 
 
@@ -388,7 +388,7 @@ Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian
 5.  Mahasiswa memulai proses bimbingan skripsi. 
 6.  Pada waktu yang ditentukan, mahasiswa harus menjalani ujian forum dan ujian sidang skripsi. 
 
-## **Ujian Forum/Seminar Hasil**
+## Ujian Forum/Seminar Hasil
 
 1.  Ujian forum skripsi diselenggarakan apabila mahasiswa sudah dianggap selesai mengerjakan pengambilan data dan analisis akhir. 
 2.  Dalam ujian forum, peserta ujian diwajibkan mengenakan kemeja putih lengan panjang, berdasi, celana panjang hitam dan bagi peserta ujian wanita diwajibkan memakai busana muslimah dengan atasan putih dan rok hitam. 
@@ -396,7 +396,7 @@ Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian
 4.  Hasil dari ujian forum adalah perbaikan skripsi sesuai dengan masukan selama proses ujian. 
 5.  Apabila mahasiswa sudah menyelesaikan perbaikan ujian forum skripsi dan mendapat persetujuan dari Dosen Pembimbing maupun Dosen Pembahas Forum, maka mahasiswa diperkenankan untuk maju ke tahap Ujian Sidang Skripsi. 
 
-## **Ujian Skripsi**
+## Ujian Skripsi
 
 1.  Syarat untuk mengikuti ujian sidang skripsi adalah: 
     a.  Sudah menyerahkan draf skripsi final pasca ujian forum 
@@ -412,7 +412,7 @@ Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian
 9.  Mahasiswa yang dinyatakan lulus dengan perbaikan, wajib untuk melakukan perbaikan skripsi sesuai rekomendasi komisi penguji pada batas waktu yang ditentukan sebelum mengikuti Yudisium. 
 10. Apabila mahasiswa dinyatakan lulus tanpa perbaikan, maka mahasiswa tersebut dinyatakan sudah memenuhi syarat sebagai Sarjana Psikologi dan bisa mengikuti Yudisium.
 
-## **Penyelesaian dan Keberhasilan Studi**
+## Penyelesaian dan Keberhasilan Studi
 
 1.  Syarat untuk dapat dinyatakan lulus sebagai Sarjana Psikologi dari Fakultas Psikologi Universitas YARSI dan diperkenankan mengikuti Yudisium, maka mahasiswa sudah harus menyelesaikan minimum 144 sks terdiri dari: 10 sks mata kuliah pilihan, 20-40 sks belajar di luar kampus, 8 sks skripsi, dan sisanya adalah sks mata kuliah wajib. 
 2.  Penyelesaian studi dapat dilakukan apabila mahasiswa telah memenuhi ketentuan SKS pada poin 1, dan memiliki IPK \>/= 2,50 dengan nilai paling rendah adalah C (tidak ada nilai di bawah C, D, E, ataupun T/TL.) 
@@ -420,7 +420,7 @@ Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian
 4.  Masa dan beban belajar program pendidikan S1 Psikologi Universitas YARSI paling lama 7 (tujuh) tahun akademik. Keberhasilan studi dinilai untuk menentukan penyelesaian studi akan dilakukan pada akhir semester VIII sampai X. 
 5.  Perpanjangan studi setiap semesternya dapat diberikan apabila yang bersangkutan belum dapat menyelesaikan studinya di tahun kelima (semester X) dengan mengajukan permohonan tertulis. Perpanjangan studi diberikan untuk satu semester dan maksimal diberikan hingga sebanyak empat kali (semester XI, XII, XII, XIV). 
 
-### **Penilaian Akhir Program Studi** {.unnumbered}
+### Penilaian Akhir Program Studi {.unnumbered}
 
 Predikat kelulusan merupakan penghargaan akademik atas prestasi yang diperoleh seorang mahasiswa selama mengikuti perkuliahan di Universitas YARSI. Ketentuannya adalah sebagai berikut:
 
@@ -431,14 +431,14 @@ Predikat kelulusan merupakan penghargaan akademik atas prestasi yang diperoleh s
 | Memuaskan                   | 2,76 - 3,00 |                             |
 | Lulus                       | 2,00 - 2,75 |                             |
 
-### **Gelar Akademik** {.unnumbered}
+### Gelar Akademik {.unnumbered}
 
 1.  Pada ijazah, dicantumkan gelar akademik, nama fakultas, program studi dan tanggal wisuda secara lengkap. 
 2.  Penerbitan ijazah disesuaikan dengan tanggal wisuda. 
 
 Gelar akademik lulusan Fakultas Psikologi Universitas YARSI adalah Sarjana Psikologi atau S. Psi. Selain ijazah, mahasiswa juga akan mendapatkan SKPI (Surat Keterangan Pendamping Ijazah). Ketentuan mengenai SKPI akan diatur dalam ketentuan terpisah. 
 
-## **Wisuda** 
+## Wisuda 
 
 1.  Wisuda adalah upacara akademik berupa Sidang Terbuka Senat Akademik Universitas YARSI yang dilaksanakan dalam rangka penyerahan ijazah kepada para lulusan. 
 2.  Sebelum diwisuda, lulusan harus sudah memenuhi semua persyaratan administrasi. 
