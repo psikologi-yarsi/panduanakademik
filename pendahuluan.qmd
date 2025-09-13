@@ -1,0 +1,171 @@
+# PENDAHULUAN DAN PROFIL PROGRAM STUDI
+
+Program Studi S1 Psikologi Universitas YARSI disahkan pendiriannya oleh Direktorat Jendral Pendidikan Tinggi Departeman Pendidikan Nasional pada tanggal 13 Juli 2007 melaui Surat Keputusan Nomor 1795/D/T/2007. Pada pendiriannya program studi ini bekerjasama dengan Fakultas Psikologi Universitas Padjadjaran, Bandung dan terus berusaha mengembangkan kerjasama- kerjasama dengan berbagai pihak demi kemajuan dan menunjang kegiatan belajar mengajar di program studi. 
+
+Fakultas Psikologi Universitas YARSI bertujuan untuk mencetak Sarjana Psikologi yang kompeten, khususnya dalam bidang Psikologi Kesehatan, dan mampu menunjukkan nilai-nilai Islam. Kompetensi yang dimiliki Sarjana Psikologi Universitas YARSI bukan hanya terbatas pada pengetahuan Ilmu Psikologi saja (*hard skill*), namun juga memiliki kompetensi untuk berinteraksi dengan lingkungan dan masyarat sekitarnya (*soft skill*) dalam menerapkan Ilmu Psikologi yang dikuasainya. 
+
+## **Visi dan Misi Fakultas Psikologi Universitas YARSI**
+
+### **Visi**
+
+Mewujudkan Fakultas Psikologi menjadi fakultas yang Islami, bermutu, terpandang dan berwibawa dalam pengembangan Psikologi Kesehatan di tingkat nasional dan mempersiapkan diri untuk berkiprah di tingkat internasional 
+
+### **Misi**
+
+-   Menyelenggarakan dan mengembangkan tridarma perguruan tinggi yang bermutu dan menekankan pada psikologi kesehatan yang mencakup kesejahteraan fisik, mental, sosial dan spiritual
+-   Menyelenggarakan dan mengembangkan tridarma perguruan tinggi yang bermutu sesuai dengan perkembangan teknologi dan nilai-nilai Islam
+-   Menunjukkan eksistensi diri dalam berbagai fora nasional dan internasional.
+
+## **Struktur Organisasi**
+
+Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Unsur Pelaksana Akademik, Unsur Dosen, dan Unsur Pelaksana Administratif. 
+
+1.  **Senat Fakultas**
+
+    Senat Fakultas Psikologi Universitas YARSI adalah badan normatif tertinggi yang beranggotakan Dekan, Kepala Program Studi, semua guru besar tetap Fakultas Psikologi Universitas YARSI dan paling banyak tiga orang wakil dosen tetap. 
+
+2.  **Unsur Pelaksana Akademik**
+
+    Unsur pelaksana akademik di Fakultas Psikologi Universitas YARSI langsung berada di bawah koordinasi Wakil Dekan 1, yang merangkap sebagai Kepala Program Studi, karena Fakultas Psikologi hanya terdiri dari 1 (satu) program studi. 
+
+3.  **Unsur Dosen**
+
+    Dosen mempunyai tugas utama, yaitu mengajar, membimbing dan atau melatih mahasiswa serta melakukan penelitian dan pengabdian kepada masyarakat. Dosen terdiri atas dosen tetap dan dosen tidak tetap dengan kualifikasi pendidikan minimal S2. 
+
+4.  **Unsur Pelaksana Administratif**
+
+    Unsur pelaksana administratif di Fakultas Psikologi Universitas YARSI adalah Tata Usaha, yang terdiri dari Sub Bagian Administrasi Akademik dan Kemahasiswaan (SBAAK) dan Sub Bagian Administrasi Keuangan (SBAU). 
+
+## **Pejabat Fakultas Psikologi Universitas YARSI Periode 2022/2023**
+
+### Senat Fakultas
+
+| No. | Nama                                       | Jabatan    | Unsur           |
+|---------------|----------------------------|---------------|---------------|
+| 1   | Alabanyo Brebahama, M.Psi., Psikolog       | Ketua      | Wakil Dosen     |
+| 2   | Ratih Arruum Listiyandini, Ph.D., Psikolog | Sekretaris | Wakil Dekan III |
+| 3   | Dr. Miwa Patnani, M.Si., Psikolog          | Anggota    | Dekan           |
+| 4   | Dr. Melok Roro Kinanthi, M.Psi., Psikolog  | Anggota    | Wakil Dekan I   |
+| 5   | Dr. Sunu Bagaskara, M.Si                   | Anggota    | Wakil Dekan II  |
+| 6   | Fitri Arlinkasari, Ph.D., Psikolog         | Anggota    | Wakil Dosen     |
+| 7   | Titi Sahidah Fitriana, Ph.D., Psikolog     | Anggota    | Wakil Dosen     |
+
+### Pimpinan Fakultas
+
+```{=html}
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Dekan</div>
+  <div>: Dr. Miwa Patnani, M.Si</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Wakil Dekan I</div>
+  <div>: Arif Triman, M.Ed</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Wakil Dekan II</div>
+  <div>: Dr. Sunu Bagaskara, M.Si</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Wakil Dekan III</div>
+  <div>: Johan Satria Putra, M.A</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Sekretaris Program Studi</div>
+  <div>: Chandradewi KusristantI, M.Psi., Psikolog</div>
+</div>
+```
+
+### **Tim Penanggung Jawab Laboratorium Terpadu:**
+
+```{=html}
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Kepala Laboratorium</div>
+  <div>: Zulfa Febriani, M.Psi., Psikolog</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Laboran</div>
+  <div>: Niken Mutia, S.Psi</div>
+</div>
+```
+
+### **Pusat Psikometri, Pengembangan, dan Penelitian Terapan Psikologi Kesehatan (P3TPK)**
+
+```{=html}
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Kepala</div>
+  <div>: Fitri Arlinkasari, Ph.D</div>
+</div>
+```
+
+### Pelakasana Administratif
+
+```{=html}
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Staf</div>
+  <div>: Achmad Fadli, S.E</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;"></div>
+  <div>: Nurvita Maulidya, S.Tr</div>
+</div>
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;"></div>
+  <div>: Sugimanto</div>
+</div>
+```
+
+## **Dosen**
+
+### **Tetap Fakultas** {.unnumbered}
+
+1.  Dr. Ade Nursanti, B.HSc., M.Ed
+
+2.  Alabanyo Brebahama, M.Psi., Psikolog
+
+3.  Aswin Januarsjaf, S.Psi., M.M.
+
+4.  Chandradewi Kusrisanti, M.Psi., Psikolog
+
+5.  Dewi Kumalasari, M.Psi., Psikolog
+
+6.  Dilfa Juniar, M.Psi., Psikolog
+
+7.  Endang Fourianalistyawati, Ph.D., Psikolog
+
+8.  Dr. Entin Nurhayati, M.Si
+
+9.  Fitri Arlinkasari, Ph.D, Psikolog
+
+10. Johan Satria Putra, M.A
+
+11. Karimulloh, M.A., Ph.D
+
+12. Dr. Melok Roro Kinanthi, Psikolog
+
+13. Dr. Miwa Patnani, M.Si., Psikolog
+
+14. Novika Grasiaswaty, M.Si
+
+15. Nuri Sadida, M.Psi., Psikolog
+
+16. Dr. Octaviani Indrasari Ranakusuma, M.Si, Psikolog
+
+17. Ratih Arruum Listiyandini, Ph.D., M.Psi., Psikolog
+
+18. Rina Rahmatika, M.Psi., Psikolog
+
+19. Riselligia Caninsti, M.Psi., Psikolog
+
+20. Sari Zakiah Akmal, M.Psi., Ph.D., Psikolog
+
+21. Dr. Sunu Bagaskara, M.Si
+
+22. Titi Sahidah Fitriana, Ph.D., M.Sc., M.Psi., Psikolog
+
+23. Zulfa Febriani, M.Psi., Psikolog
+
+### **Tetap Universitas** {.unnumbered}
+
+1.  Mohamad Kharis Umardani, S.H., M.H 
+
+2.  Heri Samtani, S.Pd., M.Hum 
