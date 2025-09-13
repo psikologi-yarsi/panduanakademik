@@ -5,22 +5,18 @@ project:
   
 website:
   title: "Buku Panduan Akademik"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
   sidebar: 
     style: docked
     search: true
     contents: 
       - index.qmd
-      - susunantim.qmd
       - pendahuluan.qmd
       - sarpras.qmd
       - ketentuan.qmd
       - kurikulum.qmd
-
+      - susunantim.qmd
+  bread-crumbs: true
+  
 format:
   html:
     theme:
@@ -28,4 +24,6 @@ format:
     css: styles.css
     toc: true
     number-sections: false
+    title-block-banner: true
+    toc-title: "Di Halaman Ini:"
 editor: visual
