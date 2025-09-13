@@ -1,4 +1,4 @@
-# KURIKULUM  {.unnumbered}
+# KURIKULUM {.unnumbered}
 
 ## Penyusunan Kurikulum Program Studi Psikologi Universitas YARSI
 
@@ -151,6 +151,177 @@ Berikut adalah capaian pembelajaran S1 Psikologi Fakultas Psikologi Universitas 
 <tr>
 <td style="width: 61.7031px;">KK4</td>
 <td style="width: 547.297px;">Mampu beradaptasi, bekerja sama, berkreasi, berkontribusi, dan berinovasi dalam menerapkan ilmu pengetahuan di bidang psikologi pada kehidupan bermasyarakat serta berperan sebagai warga dunia yang berwawasan global</td>
+</tr>
+</tbody>
+</table>
+```
+
+## Prosedur Penilaian Pembelajaran
+
+Berdasarkan **Panduan Penyusunan Kurikulum Pendidikan Tinggi yang disusun oleh Kementerian Riset, Teknologi, dan Pendidikan Tinggi (2016)**, terdapat beberapa hal yang perlu diperhatikan dalam penilaian pembelajaran. 
+
+Yang dimaksud dalam tahap penilaian pembelajaran adalah tahap penilaian proses dan hasil pembelajaran. Penilaian capaian pembelajaran dilakukan pada ranah sikap, pengetahuan dan keterampilan secara rinci dijelaskan sebagai berikut: 
+
+1.  **Penilaian ranah sikap** dilakukan melalui observasi, penilaian diri, penilaian antar mahasiswa (mahasiswa menilai kinerja rekannya dalam satu bidang atau kelompok), dan penilaian aspek pribadi yang menekankan pada aspek beriman, berakhlak mulia, percaya diri, disiplin dan bertanggung jawab dalam berinteraksi secara efektif dengan lingkungan sosial, alam sekitar, serta dunia dan peradabannya. 
+2.  **Penilaian ranah pengetahuan** melalui berbagai bentuk tes tulis dan tes lisan yang secara teknis dapat dilaksanakan secara langsung maupun tidak langsung. Secara langsung maksudnya dalah dosen dan mahasiswa bertemu secara tatap muka saat penilaian, misalnya saat seminar dan ujian skripsi. Sedangkan secara tidak langsung, misalnya menggunakan lembar-lembar soal ujian tulis. 
+3.  **Penilaian ranah keterampilan** melalui penilaian kinerja yang dapat diselenggarakan melalui praktikum, praktek, simulasi, praktek lapangan, dll. yang memungkinkan mahasiswa untuk dapat meningkatkan kemampuan ketrampilannya. 
+
+Prinsip dalam penilaian adalah: 
+
+1.  **Edukatif,** merupakan penilaian yang memotivasi mahasiswa agar mampu: 
+    a.  memperbaiki perencanaan dan cara belajar; dan
+    b.  meraih capaian pembelajaran lulusan. Dalam prosesnya diwujudkan dalam umpan balik yang diberikan kepada mahasiswa untuk setiap tugas dan ujian yang diberikan. 
+2.  **Otentik,** merupakan penilaian yang berorientasi pada proses belajar yang berkesinambungan dan hasil belajar yang mencerminkan kemampuan mahasiswa pada saat proses pembelajaran berlangsung. Oleh karena itu, setiap dosen wajib memasukkan hasil penilaian akhir maupun proses belajar di dalam komponen penilaian. 
+3.  **Objektif,** merupakan penilaian yang didasarkan pada standar yang disepakati antara dosen dan mahasiswa, serta bebas dari pengaruh subjektivitas penilai dan yang dinilai. Hal ini diwujudkan dari adanya poin penilaian yang jelas berdasarkan indikator yang ada sesuai capaian pembelajaran. Indikator penilaian ini kemudian dituangkan dalam sebuah instrumen penilaian beserta penyekorannya. 
+4.  **Akuntabel,** merupakan penilaian yang dilaksanakan sesuai dengan prosedur dan kriteria yang jelas, disepakati pada awal kuliah, dan dipahami oleh mahasiswa. Dengan demikian, setiap dosen wajib memberikan sosialisasi terkait rincian penilaian yang akan diberikan. 
+5.  **Transparan,** merupakan penilaian yang prosedur dan hasil penilaiannya dapat diakses oleh semua pemangku kepentingan. Oleh karena itu, hasil penilaian wajib untuk menyertakan komponen penilaian dan rinciannya kemudian dipublikasi melalui sistem informasi akademik yang dapat diakses oleh mahasiswa, dosen, Kepala Program Studi, maupun Staf Bagian Akademik. 
+
+### Instrumen Penilaian {.unnumbered}
+
+Instrumen Penilaian dapat berbentuk sebagai berikut: 
+
+1.  **Soal Ujian Tulis**
+
+    Soal ujian tulis ditujukan untuk menilai kedalaman pengetahuan mahasiswa sesuai dengan capaian pembelajaran dan materi pembelajaran. Ujian tulis dapat berupa soal pilihan berganda, menjodohkan, ataupun esai. Setiap soal ujian tulis yang ditujukan untuk penilaian pembelajaran di tengah dan di akhir semester, wajib disusun berdasarkan *blueprin*t soal serta diverifikasi oleh dosen dan Kepala Program Studi, dan memiliki relevansi dengan capaian pembelajaran domain pengetahuan yang dituju. 
+
+2.  **Rubrik**
+
+    Rubrik merupakan panduan penilaian yang menggambarkan kriteria yang diinginkan dalam menilai atau memberi tingkatan dari hasil kinerja belajar mahasiswa. Rubrik terdiri dari dimensi yang dinilai dan kriteria kemampuan hasil belajar mahasiswa ataupun indikator capaian belajar mahasiswa. Tujuan penilaian menggunakan rubrik adalah memperjelas dimensi dan tingkatan penilaian dari capaian pembelajaran mahasiswa. Selain itu, rubrik diharapkan dapat menjadi pendorong atau motivator bagi mahasiswa untuk mencapai capaian pembelajarannya. Contoh rubrik dapat dilihat pada bagian lampiran. 
+
+3.  **Portofolio**
+
+    Penilaian portofolio merupakan penilaian berkelanjutan yang didasarkan pada kumpulan informasi yang menunjukkan perkembangan capaian belajar mahasiswa dalam satu periode tertentu. Informasi tersebut dapat berupa karya mahasiswa dari proses pembelajaran yang dianggap terbaik atau karya mahasiswa yang menunjukkan perkembangan kemampuannya untuk mencapai capaian pembelajaran. 
+
+    Macam penilaian portofolio adalah sebagai berikut: 
+
+    a.  Portofolio perkembangan, berisi koleksi artefak karya mahasiswa yang menunjukkan kemajuan pencapaian kemampuannya sesuai dengan tahapan belajar yang telah dijalani. 
+    b.  Portofolio pamer/*showcase* berisi artefak karya mahasiswa yang menunjukkan hasil kinerja belajar terbaiknya. 
+    c.  Portofolio komprehensif, berisi artefak seluruh hasil karya mahasiswa selama proses pembelajaran.
+
+## Distribusi Mata Kuliah Per Semester
+
+Distribusi mata kuliah dirancang agar mahasiswa yang memenuhi persyaratan dapat menempuh kuliah selama 4 tahun. Distribusi mata kuliah untuk tiap semester dan kuliah prasyarat yang harus ditempuh, dapat dilihat pada tabel di bawah ini. 
+
+```{=html}
+<table style="height: 425px; width: 823px;">
+<tbody>
+<tr style="height: 43.9219px;">
+<td style="width: 70px; height: 43.9219px; text-align: center;"><strong>Semester</strong></td>
+<td style="width: 557px; height: 43.9219px; text-align: center;" colspan="8"><strong>Struktur Kurikulum</strong></td>
+<td style="width: 70px; height: 43.9219px; text-align: center;"><strong>SKS (Wajib)</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">VIII</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Kapita Selekta Psikologi Islam (1)</td>
+<td style="width: 58.7812px; height: 22px; background-color: lightblue;">Skripsi (8)</td>
+<td style="width: 121.219px; height: 22px; background-color: lightblue;">3 MK Pilihan</td>
+<td style="width: 27px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">9</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">VII</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Kuliah Kerja Nyata (3)</td>
+<td style="width: 58.7812px; height: 22px; background-color: lightblue;">Seminar Proposal Skripsi (2)</td>
+<td style="width: 121.219px; height: 22px; background-color: lightblue;">9 MK Pilihan</td>
+<td style="width: 27px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">5</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">VI</td>
+<td style="width: 70px; height: 22px; background-color: lightgreen;">Belajar di Luar Kampus/Magang Mandiri</td>
+<td style="width: 58.7812px; height: 22px;">&nbsp;</td>
+<td style="width: 121.219px; height: 22px;">&nbsp;</td>
+<td style="width: 27px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">20</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">V</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Pengantar Psi. Islam (1)</td>
+<td style="width: 58.7812px; height: 22px; background-color: lightblue;">Psi. Kesehatan &amp; Aplikasinya (4)</td>
+<td style="width: 121.219px; height: 22px; background-color: lightblue;">Asesmen dalam Organisasi (3)</td>
+<td style="width: 27px; height: 22px; background-color: lightblue;">Pelatihan (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psi. Konseling (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Intervensi Sosial(4)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">3 MK Pilihan</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">18</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">IV</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Agama Islam IV (1)</td>
+<td style="width: 58.7812px; height: 22px; background-color: #f5a627;">Asistensi Agama Islam (1)</td>
+<td style="width: 121.219px; height: 22px; background-color: lightblue;">Assesmen Kepribadian &amp; Inteligensi (6)</td>
+<td style="width: 27px; height: 22px; background-color: lightblue;">Psikologi Konseling (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Metodologi Penelitian Kualitatif(3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psikologi &amp; Budaya (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">KAUP (4)</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">21</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">III</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">III Agama Islam III (1)</td>
+<td style="width: 58.7812px; height: 22px; background-color: lightblue;">Psi. Pendidikan (3)</td>
+<td style="width: 121.219px; height: 22px; background-color: lightblue;">Metode Observasi &amp; Wawancara (4)</td>
+<td style="width: 27px; height: 22px; background-color: lightblue;">Psi. Industri &amp; Organisasi (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Penelitian Kuantitatif &amp; Statistika Lanjutan (4)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Analisis Isu Sosial(2)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psi. Klinis &amp; Psikopatologi(4)</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">21</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">II</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Agama Islam II (1)</td>
+<td style="width: 58.7812px; height: 22px; background-color: #f5a627;">Kewarganegaraan (2)</td>
+<td style="width: 121.219px; height: 22px; background-color: #f5a627;">Kewirausahaan (2)</td>
+<td style="width: 27px; height: 22px; background-color: lightblue;">Pengantar Asesmen Psikologi (2)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psi. Perkembangan (5)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Penelitian Kuantitatif &amp; Statistika Dasar (4)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psi. Kepribadian(4)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Psi. Sosial (3)</td>
+<td style="width: 70px; height: 22px; text-align: right;">23</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">I</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">Agama Islam I (2)</td>
+<td style="width: 58.7812px; height: 22px; background-color: #f5a627;">Pancasila (2)</td>
+<td style="width: 121.219px; height: 22px; background-color: #f5a627;">B. Inggris (2)</td>
+<td style="width: 27px; height: 22px; background-color: lightblue;">B.Indonesia (2)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">PPBKB (5)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Sejarah Aliran Psikologi (3)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Logika Penulisan Ilmiah (2)</td>
+<td style="width: 70px; height: 22px; background-color: lightblue;">Pengembangan Diri &amp; Karir (2)</td>
+<td style="width: 70px; height: 22px; text-align: right;">20</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 557px; height: 22px;" colspan="8"><strong>Total (Wajib)</strong></td>
+<td style="width: 70px; height: 22px; text-align: right;"><strong>137</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 70px; height: 22px;">Ket:</td>
+<td style="width: 70px; height: 22px; background-color: #f5a627;">MK Umum</td>
+<td style="width: 58.7812px; height: 22px; background-color: lightblue;">MK Keilmuan</td>
+<td style="width: 121.219px; height: 22px; background-color: lightgreen;">Kegiatan MBKM</td>
+<td style="width: 27px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px;">&nbsp;</td>
+<td style="width: 70px; height: 22px; text-align: right;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
