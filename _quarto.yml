@@ -19,12 +19,12 @@ website:
       - pendahuluan.qmd
       - sarpras.qmd
       - ketentuan.qmd
+      - kurikulum.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - yeti
     css: styles.css
     toc: true
     number-sections: false

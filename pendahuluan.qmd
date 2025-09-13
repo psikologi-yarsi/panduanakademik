@@ -1,4 +1,4 @@
-# PENDAHULUAN DAN PROFIL PROGRAM STUDI
+# PENDAHULUAN DAN PROFIL PROGRAM STUDI {.unnumbered}
 
 Program Studi S1 Psikologi Universitas YARSI disahkan pendiriannya oleh Direktorat Jendral Pendidikan Tinggi Departeman Pendidikan Nasional pada tanggal 13 Juli 2007 melaui Surat Keputusan Nomor 1795/D/T/2007. Pada pendiriannya program studi ini bekerjasama dengan Fakultas Psikologi Universitas Padjadjaran, Bandung dan terus berusaha mengembangkan kerjasama- kerjasama dengan berbagai pihak demi kemajuan dan menunjang kegiatan belajar mengajar di program studi. 
 
@@ -41,7 +41,7 @@ Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Uns
 ### Senat Fakultas
 
 | No. | Nama                                       | Jabatan    | Unsur           |
-|---------------|----------------------------|---------------|---------------|
+|------|----------------------------|---------------|---------------|
 | 1   | Alabanyo Brebahama, M.Psi., Psikolog       | Ketua      | Wakil Dosen     |
 | 2   | Ratih Arruum Listiyandini, Ph.D., Psikolog | Sekretaris | Wakil Dekan III |
 | 3   | Dr. Miwa Patnani, M.Si., Psikolog          | Anggota    | Dekan           |
@@ -119,53 +119,30 @@ Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Uns
 ### **Tetap Fakultas** {.unnumbered}
 
 1.  Dr. Ade Nursanti, B.HSc., M.Ed
-
 2.  Alabanyo Brebahama, M.Psi., Psikolog
-
 3.  Aswin Januarsjaf, S.Psi., M.M.
-
 4.  Chandradewi Kusrisanti, M.Psi., Psikolog
-
 5.  Dewi Kumalasari, M.Psi., Psikolog
-
 6.  Dilfa Juniar, M.Psi., Psikolog
-
 7.  Endang Fourianalistyawati, Ph.D., Psikolog
-
 8.  Dr. Entin Nurhayati, M.Si
-
 9.  Fitri Arlinkasari, Ph.D, Psikolog
-
 10. Johan Satria Putra, M.A
-
 11. Karimulloh, M.A., Ph.D
-
 12. Dr. Melok Roro Kinanthi, Psikolog
-
 13. Dr. Miwa Patnani, M.Si., Psikolog
-
 14. Novika Grasiaswaty, M.Si
-
 15. Nuri Sadida, M.Psi., Psikolog
-
 16. Dr. Octaviani Indrasari Ranakusuma, M.Si, Psikolog
-
 17. Ratih Arruum Listiyandini, Ph.D., M.Psi., Psikolog
-
 18. Rina Rahmatika, M.Psi., Psikolog
-
 19. Riselligia Caninsti, M.Psi., Psikolog
-
 20. Sari Zakiah Akmal, M.Psi., Ph.D., Psikolog
-
 21. Dr. Sunu Bagaskara, M.Si
-
 22. Titi Sahidah Fitriana, Ph.D., M.Sc., M.Psi., Psikolog
-
 23. Zulfa Febriani, M.Psi., Psikolog
 
 ### **Tetap Universitas** {.unnumbered}
 
 1.  Mohamad Kharis Umardani, S.H., M.H 
-
 2.  Heri Samtani, S.Pd., M.Hum 
