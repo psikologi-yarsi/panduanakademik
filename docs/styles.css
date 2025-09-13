@@ -1,0 +1,33 @@
+/* css styles */
+/* Reset semua counter */
+body {
+  counter-reset: h1counter;
+}
+
+/* Heading 1 → Romawi */
+h1 {
+  counter-reset: h2counter;
+}
+h1::before {
+  counter-increment: h1counter;
+  content: counter(h1counter, upper-roman) ". ";
+}
+
+/* Heading 2 → Huruf kapital */
+h2 {
+  counter-reset: h3counter;
+}
+h2::before {
+  counter-increment: h2counter;
+  content: counter(h2counter, upper-alpha) ". ";
+}
+
+/* Heading 3 → Angka latin */
+h3::before {
+  counter-increment: h3counter;
+  content: counter(h3counter, decimal) ". ";
+}
+
+.unnumbered:before {
+  content: none !important;
+}
