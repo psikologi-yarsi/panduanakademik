@@ -1,22 +1,24 @@
 project:
-  type: website
+  type: book
   title: "Buku Panduan Akademik"
   output-dir: docs
   
-website:
+book:
   title: "Buku Panduan Akademik"
-  #subtitle: "Kurikulum 2022"
+  subtitle: "Kurikulum 2022"
+  site-url: https://psikologi-yarsi.github.io/panduanakademik
   sidebar: 
+    logo: "logo.png"
     style: docked
     search: true
-    contents: 
-      - index.qmd
-      - pendahuluan.qmd
-      - sarpras.qmd
-      - ketentuan.qmd
-      - kurikulum.qmd
-      - susunantim.qmd
-  bread-crumbs: true
+  chapters: 
+    - index.qmd
+    - pendahuluan.qmd
+    - sarpras.qmd
+    - ketentuan.qmd
+    - kurikulum.qmd
+    - susunantim.qmd
+  page-navigation: true
   
 format:
   html:
@@ -25,6 +27,7 @@ format:
     toc: true
     number-sections: false
     title-block-banner: true
-    #toc-title: "Di Halaman Ini:"
+    toc-title: "Di Halaman Ini:"
     lang: id
+    
 editor: visual

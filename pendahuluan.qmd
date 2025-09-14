@@ -40,12 +40,13 @@ Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Uns
 
     Unsur pelaksana administratif di Fakultas Psikologi Universitas YARSI adalah Tata Usaha, yang terdiri dari Sub Bagian Administrasi Akademik dan Kemahasiswaan (SBAAK) dan Sub Bagian Administrasi Keuangan (SBAU). 
 
-## Pejabat Fakultas Psikologi Universitas YARSI Periode 2022/2023
+## Pejabat Fakultas Psikologi Universitas YARSI Periode 2025/2026
 
 ### Senat Fakultas
 
+::: {tbl-colwidths="[10,54,18,18]"}
 | No. | Nama                                       | Jabatan    | Unsur           |
-|----------------|-------------------------|----------------|----------------|
+|-----------------|:-------------------|:----------------|:----------------|
 | 1   | Alabanyo Brebahama, M.Psi., Psikolog       | Ketua      | Wakil Dosen     |
 | 2   | Ratih Arruum Listiyandini, Ph.D., Psikolog | Sekretaris | Wakil Dekan III |
 | 3   | Dr. Miwa Patnani, M.Si., Psikolog          | Anggota    | Dekan           |
@@ -53,6 +54,7 @@ Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Uns
 | 5   | Dr. Sunu Bagaskara, M.Si                   | Anggota    | Wakil Dekan II  |
 | 6   | Fitri Arlinkasari, Ph.D., Psikolog         | Anggota    | Wakil Dosen     |
 | 7   | Titi Sahidah Fitriana, Ph.D., Psikolog     | Anggota    | Wakil Dosen     |
+:::
 
 ### Pimpinan Fakultas
 
@@ -97,11 +99,20 @@ Organisasi Fakultas Psikologi Universitas YARSI terdiri atas Senat Fakultas, Uns
 ```{=html}
 <div style="display: flex; gap: 20px;">
   <div style="width: 200px;">Kepala</div>
-  <div>: Fitri Arlinkasari, Ph.D</div>
+  <div>: Sari Zakiah Akmal, Ph.D</div>
 </div>
 ```
 
-### Pelakasana Administratif
+### Gugus Kendali Mutu (GKM)
+
+```{=html}
+<div style="display: flex; gap: 20px;">
+  <div style="width: 200px;">Kepala</div>
+  <div>: Dr. Ade Nursanti, M.Ed</div>
+</div>
+```
+
+### Pelaksana Administratif
 
 ```{=html}
 <div style="display: flex; gap: 20px;">
