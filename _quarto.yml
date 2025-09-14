@@ -5,6 +5,7 @@ project:
   
 website:
   title: "Buku Panduan Akademik"
+  #subtitle: "Kurikulum 2022"
   sidebar: 
     style: docked
     search: true
@@ -19,8 +20,7 @@ website:
   
 format:
   html:
-    theme:
-      - yeti
+    theme: yeti
     css: styles.css
     toc: true
     number-sections: false
