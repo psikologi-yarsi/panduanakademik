@@ -1,49 +1,73 @@
-/* ========== Custom Heading Numbering untuk Quarto ========== */
+/* =========================================================
+   CUSTOM HEADING NUMBERING UNTUK QUARTO
+   ========================================================= */
 
-/* Reset counter hanya di dalam konten utama */
-main.content {
-  counter-reset: h1counter;
+
+/* ---------------------------------------------------------
+   1. HILANGKAN NUMBERING DEFAULT QUARTO
+   --------------------------------------------------------- */
+
+h1 .header-section-number,
+h2 .header-section-number,
+h3 .header-section-number,
+h4 .header-section-number,
+h5 .header-section-number,
+h6 .header-section-number {
+  display: none;
 }
 
-/* Heading 1 → Romawi (I, II, III...) */
-main.content h1.anchored {
-  counter-reset: h2counter;
-}
+
+/* ---------------------------------------------------------
+   2. H1 TANPA NOMOR
+   --------------------------------------------------------- */
+
 main.content h1.anchored::before {
-  counter-increment: h1counter;
-  content: counter(h1counter, upper-roman) ". ";
+  content: none !important;
 }
 
-/* Heading 2 → Huruf kapital (A, B, C...) */
+
+/* ---------------------------------------------------------
+   3. H2 TANPA NOMOR
+   --------------------------------------------------------- */
+
+main.content h2.anchored::before {
+  content: none !important;
+}
+
+
+/* ---------------------------------------------------------
+   4. H3 → ANGKA 1, 2, 3...
+   --------------------------------------------------------- */
+
+/* Reset counter H3 setiap kali masuk ke H2 */
 main.content h2.anchored {
   counter-reset: h3counter;
 }
-main.content h2.anchored::before {
-  counter-increment: h2counter;
-  content: counter(h2counter, upper-alpha) ". ";
-}
 
-/* Heading 3 → Angka latin (1, 2, 3...) */
+/* Beri nomor pada H3 */
 main.content h3.anchored::before {
   counter-increment: h3counter;
   content: counter(h3counter, decimal) ". ";
 }
 
-/* Hilangkan angka default Quarto */
-h1 .header-section-number,
-h2 .header-section-number,
-h3 .header-section-number {
-  display: none;
-}
 
-/* Hilangkan numbering di judul proyek & TOC */
+/* ---------------------------------------------------------
+   5. JUDUL KHUSUS / TITLE / TOC
+   --------------------------------------------------------- */
+
 #title-block-header h1.title::before,
 .quarto-title h1::before,
 .toc-title::before {
   content: none !important;
 }
 
-/* Untuk heading dengan class .unnumbered → tidak dinomori */
-.unnumbered::before {
+
+/* ---------------------------------------------------------
+   6. .UNNUMBERED
+   --------------------------------------------------------- */
+
+main.content h1.anchored.unnumbered::before,
+main.content h2.anchored.unnumbered::before,
+main.content h3.anchored.unnumbered::before {
   content: none !important;
 }

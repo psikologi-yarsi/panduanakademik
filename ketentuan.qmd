@@ -132,9 +132,9 @@ Satu pekan setelah perkuliahan berjalan, mahasiswa diberi kesempatan untuk menam
 2.  Sistem kredit adalah suatu sistem penyelenggaraan program pendidikan yang dinyatakan dalam sks, dengan ukuran waktu terkecil adalah satu semester. 
 3.  Semester adalah satuan waktu kegiatan pendidikan selama 16 pekan, terdiri atas 14 pekan (tatap muka) kegiatan perkuliahan/praktikum, satu pekan kegiatan Ujian Tengan Semester (UTS), dan satu pekan kegiatan Ujian Akhir Semester (UAS). 
 4.  1 SKS dalam bentuk pembelajaran kuliah, responsi, dan tutorial, mencakup: 
-    -   50 menit kegiatan tatap muka di kelas dengan pengajar, 
-    -   60 menit kegiatan terstruktur seperti mengerjakan tugas, soal-soal dari pengajar dll, 
-    -   60 menit kegiatan mandiri guna pengayaan seperti mengunjungi perpustakaan, belajar mandiri, belajar kelompok dan lain-lain. 
+    - 50 menit kegiatan tatap muka di kelas dengan pengajar, 
+    - 60 menit kegiatan terstruktur seperti mengerjakan tugas, soal-soal dari pengajar dll, 
+    - 60 menit kegiatan mandiri guna pengayaan seperti mengunjungi perpustakaan, belajar mandiri, belajar kelompok dan lain-lain. 
 5.  Khusus untuk mata kuliah seminar, dan bentuk pembelajaran lain, satu sks setara dengan 170 menit kegiatan per minggu, yang terdiri dari 100 menit per minggu per semester, dan kegiatan belajar mandiri 70 menit per minggu per semester. 
 6.  Satu tahun akademik terdiri atas 2 semester. Semester merupakan satuan waktu pembelajaran efektif selama paling sedikit enam belas (16) minggu, termasuk ujian tengah semester dan akhir semester. 
 7.  Universitas YARSI dapat menyelenggarakan semester antara, dengan ketentuan diselenggarakan: 
@@ -332,9 +332,7 @@ Untuk bisa mengikuti mata kuliah Tugas Akhir, maka setiap mahasiswa sudah harus 
 3.  Untuk prasyarat Skripsi: 
 
     1.  Telah menyelesaikan beban belajar 100 sks. 
-
     2.  Telah dinyatakan lulus dalam mata kuliah Seminar Proposal Skripsi dengan nilai minimal C. 
-
     3.  Melengkapi persyaratan akademik lainnya, sesuai pertimbangan Kepala Program Studi. 
 
 ## Belajar Di Luar Kampus
@@ -420,7 +418,7 @@ Apabila mahasiswa dinyatakan lulus dalam mata kuliah Seminar Proposal Penelitian
 4.  Masa dan beban belajar program pendidikan S1 Psikologi Universitas YARSI paling lama 7 (tujuh) tahun akademik. Keberhasilan studi dinilai untuk menentukan penyelesaian studi akan dilakukan pada akhir semester VIII sampai X. 
 5.  Perpanjangan studi setiap semesternya dapat diberikan apabila yang bersangkutan belum dapat menyelesaikan studinya di tahun kelima (semester X) dengan mengajukan permohonan tertulis. Perpanjangan studi diberikan untuk satu semester dan maksimal diberikan hingga sebanyak empat kali (semester XI, XII, XII, XIV). 
 
-### Penilaian Akhir Program Studi {.unnumbered}
+### Penilaian Akhir Program Studi
 
 Predikat kelulusan merupakan penghargaan akademik atas prestasi yang diperoleh seorang mahasiswa selama mengikuti perkuliahan di Universitas YARSI. Ketentuannya adalah sebagai berikut:
 
@@ -431,14 +429,14 @@ Predikat kelulusan merupakan penghargaan akademik atas prestasi yang diperoleh s
 | Memuaskan                   | 2,76 - 3,00 |                             |
 | Lulus                       | 2,00 - 2,75 |                             |
 
-### Gelar Akademik {.unnumbered}
+### Gelar Akademik
 
 1.  Pada ijazah, dicantumkan gelar akademik, nama fakultas, program studi dan tanggal wisuda secara lengkap. 
 2.  Penerbitan ijazah disesuaikan dengan tanggal wisuda. 
 
 Gelar akademik lulusan Fakultas Psikologi Universitas YARSI adalah Sarjana Psikologi atau S. Psi. Selain ijazah, mahasiswa juga akan mendapatkan SKPI (Surat Keterangan Pendamping Ijazah). Ketentuan mengenai SKPI akan diatur dalam ketentuan terpisah. 
 
-## Wisuda 
+## Wisuda
 
 1.  Wisuda adalah upacara akademik berupa Sidang Terbuka Senat Akademik Universitas YARSI yang dilaksanakan dalam rangka penyerahan ijazah kepada para lulusan. 
 2.  Sebelum diwisuda, lulusan harus sudah memenuhi semua persyaratan administrasi. 
